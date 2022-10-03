@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Índice on Practica IAW</title>
+    <link>http://example.org/posts/</link>
+    <description>Recent content in Índice on Practica IAW</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 03 Oct 2022 12:56:47 +0200</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Taller 1</title>
+      <link>http://example.org/posts/taller1/</link>
+      <pubDate>Mon, 03 Oct 2022 12:56:47 +0200</pubDate>
+      
+      <guid>http://example.org/posts/taller1/</guid>
+      <description>Taller 1:Introducción a git y GitHub # 1. Una captura de pantalla donde se vea que has creado el repositorio. # 2. El contenido del fichero .git/config para que se vea que has clonado el repositorio con la URL ssh.</description>
+    </item>
+    
+    <item>
+      <title>Ejemplo MarkDown</title>
+      <link>http://example.org/posts/ejemplo_markdown/</link>
+      <pubDate>Thu, 29 Sep 2022 12:23:20 +0200</pubDate>
+      
+      <guid>http://example.org/posts/ejemplo_markdown/</guid>
+      <description>Introducción a Markdown # Implantación de Aplicaciones Web # Este fichero está alojado en github; que es una forja (plataforma de desarrollo colaborativo) para alojar proyectos utilizando el sistema de control de versiones Git:</description>
+    </item>
+    
+    <item>
+      <title>Primer post</title>
+      <link>http://example.org/posts/prueba1/</link>
+      <pubDate>Wed, 28 Sep 2022 01:21:03 +0200</pubDate>
+      
+      <guid>http://example.org/posts/prueba1/</guid>
+      <description>Hola buenos dias este es mi primer post tal # Lista de cosas
+primera cosa segunda cosa </description>
+    </item>
+    
+  </channel>
+</rss>
