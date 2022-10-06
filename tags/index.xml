@@ -1,18 +1,36 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Practica IAW</title>
-    <link>http://example.org/tags/</link>
-    <description>Recent content in Tags on Practica IAW</description>
+    <title>Tags on Página IAW</title>
+    <link>http://blog-robertorodriguez.surge.sh/tags/</link>
+    <description>Recent content in Tags on Página IAW</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Thu, 29 Sep 2022 12:23:20 +0200</lastBuildDate><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 06 Oct 2022 08:21:57 +0200</lastBuildDate><atom:link href="http://blog-robertorodriguez.surge.sh/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Debian</title>
+      <link>http://blog-robertorodriguez.surge.sh/tags/debian/</link>
+      <pubDate>Thu, 06 Oct 2022 08:21:57 +0200</pubDate>
+      
+      <guid>http://blog-robertorodriguez.surge.sh/tags/debian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>preseed</title>
+      <link>http://blog-robertorodriguez.surge.sh/tags/preseed/</link>
+      <pubDate>Thu, 06 Oct 2022 08:21:57 +0200</pubDate>
+      
+      <guid>http://blog-robertorodriguez.surge.sh/tags/preseed/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Markdown</title>
-      <link>http://example.org/tags/markdown/</link>
+      <link>http://blog-robertorodriguez.surge.sh/tags/markdown/</link>
       <pubDate>Thu, 29 Sep 2022 12:23:20 +0200</pubDate>
       
-      <guid>http://example.org/tags/markdown/</guid>
+      <guid>http://blog-robertorodriguez.surge.sh/tags/markdown/</guid>
       <description></description>
     </item>
     

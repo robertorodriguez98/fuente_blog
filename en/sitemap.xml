@@ -4,54 +4,54 @@
   
     
       <url>
-            <loc>http://example.org/en/categories/</loc>
+            <loc>http://blog-robertorodriguez.surge.sh/en/</loc>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
             <xhtml:link
               rel="alternate"
               hreflang="es"
-              href="http://example.org/categories/"
+              href="http://blog-robertorodriguez.surge.sh/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="en"
-              href="http://example.org/en/categories/"
+              href="http://blog-robertorodriguez.surge.sh/en/"
               />
           </url>
     
   
     
       <url>
-            <loc>http://example.org/en/</loc>
+            <loc>http://blog-robertorodriguez.surge.sh/en/categories/</loc>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
             <xhtml:link
               rel="alternate"
               hreflang="es"
-              href="http://example.org/"
+              href="http://blog-robertorodriguez.surge.sh/categories/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="en"
-              href="http://example.org/en/"
+              href="http://blog-robertorodriguez.surge.sh/en/categories/"
               />
           </url>
     
   
     
       <url>
-            <loc>http://example.org/en/tags/</loc>
+            <loc>http://blog-robertorodriguez.surge.sh/en/tags/</loc>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
             <xhtml:link
               rel="alternate"
               hreflang="es"
-              href="http://example.org/tags/"
+              href="http://blog-robertorodriguez.surge.sh/tags/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="en"
-              href="http://example.org/en/tags/"
+              href="http://blog-robertorodriguez.surge.sh/en/tags/"
               />
           </url>
     

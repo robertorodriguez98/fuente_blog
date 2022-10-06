@@ -4,26 +4,99 @@
   
     
       <url>
-            <loc>http://example.org/</loc>
-            <lastmod>2022-10-03T12:56:47+02:00</lastmod>
+            <loc>http://blog-robertorodriguez.surge.sh/posts/desatendida/cargar-preseed-red/</loc>
+            <lastmod>2022-10-06T08:21:57+02:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://blog-robertorodriguez.surge.sh/tags/debian/</loc>
+            <lastmod>2022-10-06T08:21:57+02:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://blog-robertorodriguez.surge.sh/</loc>
+            <lastmod>2022-10-06T08:21:57+02:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
             <xhtml:link
               rel="alternate"
               hreflang="en"
-              href="http://example.org/en/"
+              href="http://blog-robertorodriguez.surge.sh/en/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="es"
-              href="http://example.org/"
+              href="http://blog-robertorodriguez.surge.sh/"
               />
           </url>
     
   
     
       <url>
-            <loc>http://example.org/posts/</loc>
+            <loc>http://blog-robertorodriguez.surge.sh/posts/</loc>
+            <lastmod>2022-10-06T08:21:57+02:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://blog-robertorodriguez.surge.sh/posts/desatendida/</loc>
+            <lastmod>2022-10-06T08:21:57+02:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://blog-robertorodriguez.surge.sh/tags/preseed/</loc>
+            <lastmod>2022-10-06T08:21:57+02:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://blog-robertorodriguez.surge.sh/tags/</loc>
+            <lastmod>2022-10-06T08:21:57+02:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="http://blog-robertorodriguez.surge.sh/en/tags/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="es"
+              href="http://blog-robertorodriguez.surge.sh/tags/"
+              />
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://blog-robertorodriguez.surge.sh/posts/prueba/</loc>
+            <lastmod>2022-10-06T00:33:34+02:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://blog-robertorodriguez.surge.sh/posts/taller1/</loc>
             <lastmod>2022-10-03T12:56:47+02:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -32,35 +105,26 @@
   
     
       <url>
-            <loc>http://example.org/posts/taller1/</loc>
-            <lastmod>2022-10-03T12:56:47+02:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>http://example.org/categories/</loc>
+            <loc>http://blog-robertorodriguez.surge.sh/categories/</loc>
             <lastmod>2022-09-29T12:23:20+02:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
             <xhtml:link
               rel="alternate"
               hreflang="en"
-              href="http://example.org/en/categories/"
+              href="http://blog-robertorodriguez.surge.sh/en/categories/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="es"
-              href="http://example.org/categories/"
+              href="http://blog-robertorodriguez.surge.sh/categories/"
               />
           </url>
     
   
     
       <url>
-            <loc>http://example.org/posts/ejemplo_markdown/</loc>
+            <loc>http://blog-robertorodriguez.surge.sh/posts/ejemplo_markdown/</loc>
             <lastmod>2022-09-29T12:23:20+02:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -69,7 +133,7 @@
   
     
       <url>
-            <loc>http://example.org/categories/implantaci%C3%B3n-de-aplicaciones-web/</loc>
+            <loc>http://blog-robertorodriguez.surge.sh/categories/implantaci%C3%B3n-de-aplicaciones-web/</loc>
             <lastmod>2022-09-29T12:23:20+02:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -78,7 +142,7 @@
   
     
       <url>
-            <loc>http://example.org/tags/markdown/</loc>
+            <loc>http://blog-robertorodriguez.surge.sh/tags/markdown/</loc>
             <lastmod>2022-09-29T12:23:20+02:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -87,26 +151,7 @@
   
     
       <url>
-            <loc>http://example.org/tags/</loc>
-            <lastmod>2022-09-29T12:23:20+02:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-            <xhtml:link
-              rel="alternate"
-              hreflang="en"
-              href="http://example.org/en/tags/"
-              />
-            <xhtml:link
-              rel="alternate"
-              hreflang="es"
-              href="http://example.org/tags/"
-              />
-          </url>
-    
-  
-    
-      <url>
-            <loc>http://example.org/posts/prueba1/</loc>
+            <loc>http://blog-robertorodriguez.surge.sh/posts/prueba1/</loc>
             <lastmod>2022-09-28T01:21:03+02:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>

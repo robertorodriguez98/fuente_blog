@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Markdown on Practica IAW</title>
-    <link>http://example.org/tags/markdown/</link>
-    <description>Recent content in Markdown on Practica IAW</description>
+    <title>Markdown on Página IAW</title>
+    <link>http://blog-robertorodriguez.surge.sh/tags/markdown/</link>
+    <description>Recent content in Markdown on Página IAW</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Thu, 29 Sep 2022 12:23:20 +0200</lastBuildDate><atom:link href="http://example.org/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 29 Sep 2022 12:23:20 +0200</lastBuildDate><atom:link href="http://blog-robertorodriguez.surge.sh/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ejemplo MarkDown</title>
-      <link>http://example.org/posts/ejemplo_markdown/</link>
+      <link>http://blog-robertorodriguez.surge.sh/posts/ejemplo_markdown/</link>
       <pubDate>Thu, 29 Sep 2022 12:23:20 +0200</pubDate>
       
-      <guid>http://example.org/posts/ejemplo_markdown/</guid>
+      <guid>http://blog-robertorodriguez.surge.sh/posts/ejemplo_markdown/</guid>
       <description>Introducción a Markdown # Implantación de Aplicaciones Web # Este fichero está alojado en github; que es una forja (plataforma de desarrollo colaborativo) para alojar proyectos utilizando el sistema de control de versiones Git:</description>
     </item>
     
