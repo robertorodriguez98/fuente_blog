@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Debian on Página IAW</title>
+    <link>http://blog-robertorodriguez.surge.sh/tags/debian/</link>
+    <description>Recent content in Debian on Página IAW</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 06 Oct 2022 08:21:57 +0200</lastBuildDate><atom:link href="http://blog-robertorodriguez.surge.sh/tags/debian/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cargar Preseed Red</title>
+      <link>http://blog-robertorodriguez.surge.sh/posts/desatendida/cargar-preseed-red/</link>
+      <pubDate>Thu, 06 Oct 2022 08:21:57 +0200</pubDate>
+      
+      <guid>http://blog-robertorodriguez.surge.sh/posts/desatendida/cargar-preseed-red/</guid>
+      <description>Carga del fichero preseed.cfg desde red # Configuración del servidor # Para la instalación desatendida cargando el preseed desde red, es necesario una máquina que haga el rol de servidor, teniendo un servidor apache2 instalado.</description>
+    </item>
+    
+  </channel>
+</rss>
